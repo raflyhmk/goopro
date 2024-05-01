@@ -1,0 +1,179 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+.nav-link {
+    font-size: 20px;
+    color: #292929 !important;
+    font-weight: 300;
+}
+
+.btn-login {
+    background: #3ec0d0 !important;
+    color: #fff;
+    width: 119px;
+    height: 47px;
+    font-size: 20px;
+}
+
+.btn-login:hover {
+    background: #3ebfd0d9 !important;
+    color: #fff;
+    width: 119px;
+    height: 47px;
+    font-size: 20px;
+}
+
+.text-banner {
+    color: #3ec0d0;
+    font-size: 36px;
+    line-height: 56px;
+}
+
+.image-banner {
+    width: 80%;
+    height: 292px;
+}
+
+#tagline,
+#daftar {
+    background: #3ec0d0;
+}
+
+.tagline-text {
+    line-height: 32px;
+    font-size: 24px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+
+.title-aset {
+    color: #3ec0d0;
+}
+
+.list-aset {
+    background: #3ec0d0;
+}
+
+.list-aset i {
+    color: #3ec0d0;
+    background: #fff;
+    font-size: 50px;
+    width: 100px;
+    height: 100px;
+}
+
+.image-aset {
+    width: 688px;
+    height: 414px;
+}
+
+.title-fitur {
+    color: #3ec0d0;
+}
+
+.card-aset {
+    background: #3ec0d0;
+    color: #fff;
+}
+
+.card-title-fitur {
+    font-size: 36px !important;
+}
+
+.card-text-fitur {
+    font-size: 28px;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    background: #292929;
+    width: 45px;
+    height: 45px;
+    display: flex;
+    align-self: center;
+}
+
+.card-tentang-perusahaan {
+    background: #3ebfd0;
+}
+
+.title-tentang-perusahaan {
+    color: #fff;
+    font-size: 48px;
+    padding-bottom: 32px;
+}
+
+.subtitle-tentang-perusahaan {
+    color: #fff;
+    font-size: 32px;
+    padding-left: 92px;
+    padding-right: 92px;
+    padding-bottom: 32px;
+}
+
+.title-harapan-kita {
+    color: #3ec0d0;
+    font-size: 48px;
+}
+
+.subtitle-harapan-kita {
+    color: #3ec0d0;
+    font-size: 32px;
+}
+
+.btn-daftar {
+    color: #3ec0d0;
+    width: 382px;
+    height: 45px;
+    font-size: 24px;
+    border-radius: 100px;
+}
+
+.btn-daftar:hover {
+    background: #f3f8ff;
+    color: #3ebfd0;
+    width: 382px;
+    height: 45px;
+    font-size: 24px;
+    border-radius: 100px;
+}
+
+.footer-image {
+    width: 312px;
+    height: 100%;
+}
+
+.footer-text {
+    font-size: 24px;
+    color: #3ebfd0;
+}
+
+.CP-footer h5 {
+    font-size: 32px;
+    line-height: 37.5px;
+    color: #3ebfd0;
+}
+
+/* forgot password */
+.btn-forgot-password {
+    background: #3ebfd0;
+    color: #fff;
+    border: none;
+    width: 284px;
+}
+
+.btn-forgot-password:hover {
+    background: #3ebfd0e3;
+    color: #fff;
+    border: none;
+}
+
+/* usertype */
+.card-text {
+    transition: border-bottom 0.3s ease;
+}
+.card-text.active {
+    border-bottom: 2px solid #3ec0d0;
+    padding-bottom: 12px;
+}
